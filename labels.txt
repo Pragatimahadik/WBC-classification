@@ -1,0 +1,9 @@
+0 blasts
+1 monocytes
+2 neutrophils
+3 eosinophils
+4 myelocytes
+5 basophils
+6 lymphocytes
+7 bands
+8 metamyelocytes
